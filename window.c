@@ -29,8 +29,8 @@
 #include "config.h"
 
 enum {
-	WIN_MIN_W  = 50,
-	WIN_MIN_H  = 30,
+	WIN_MIN_W  = 16,
+	WIN_MIN_H  = 11,
 	H_TEXT_PAD = 5,
 	V_TEXT_PAD = 1
 };
